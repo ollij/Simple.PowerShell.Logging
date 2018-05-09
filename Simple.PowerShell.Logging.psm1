@@ -1,9 +1,9 @@
-﻿###########
+###########
 # Simple.PowerShell.Logging.psm1
 # Author: Olli Jääskeläinen
 # Date: 2018-05-09
-# Source: 
-# Documentation:
+# Source: https://github.com/ollij/Simple.PowerShell.Logging/blob/master/Simple.PowerShell.Logging.psm1
+# Documentation: http://opax.io/simple-powershell-logging-solution-for-azure-functions/
 # MIT License
 
 
